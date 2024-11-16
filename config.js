@@ -11,39 +11,39 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', '👑 Luciano - Creador 👑', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', false],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328', '🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328','🥷🏼 Luciano 🥷🏼', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328']
+  ['543704518876', '👑 Luciano - Creador 👑', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', false],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876', '🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876','🥷🏼 Luciano 🥷🏼', true],
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'], 
+  ['543704518876'],  
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'], 
+  ['543704518876'], 
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'], 
+  ['543704518876'],
+  ['543704518876'],
+  ['543704518876'], 
+  ['543704518876']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['543704518876'];
+global.prems = ['543704518876'];
 
 global.packname = 'KɪʟʟᴢN';
 global.author = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
@@ -83,7 +83,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '56983073328';
+global.nomorown = '543704518876';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
