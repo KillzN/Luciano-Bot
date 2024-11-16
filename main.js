@@ -81,7 +81,7 @@ global.loadDatabase = async function loadDatabase() {
 };
 loadDatabase();
 
-/* Creditos a KillzN (https://wa.me/56983073328) */
+/* Creditos a Luciano (https://wa.me/56983073328) */
 
 global.chatgpt = new Low(new JSONFile(path.join(__dirname, '/db/chatgpt.json')));
 global.loadChatgptDB = async function loadChatgptDB() {
